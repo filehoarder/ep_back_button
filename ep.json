@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "back_button",
+      "client_hooks": {
+        "postAceInit": "ep_back_button/static/js/main"
+      }
+    }
+  ]
+}

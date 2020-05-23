@@ -1,0 +1,11 @@
+{
+  "name": "ep_back_button",
+  "version": "0.0.1",
+  "description": "Navigate back to the main page",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filehoarder/ep_back_button"
+  },
+  "author": "Gerrit Pape <papeg@mail.upb.de>",
+  "license": "APGLv3"
+}
